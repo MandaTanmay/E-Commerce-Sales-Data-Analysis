@@ -3,6 +3,7 @@
 ## 🔍 Overview
 
 **Project Title:** E-Commerce Sales Analysis
+
 **Level:** Intermediate / SQL Analytics
 
 This project demonstrates end-to-end **SQL-based data analysis** on an e-commerce sales dataset. It focuses on **data cleaning, validation, and business insights** using advanced SQL queries.
